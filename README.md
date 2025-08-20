@@ -30,7 +30,7 @@ Este é um projeto aberto e ficaremos felizes com qualquer contribuição! Se in
 
 Dúvidas sobre o projeto? Você pode:
 - Abrir uma [Issue](https://github.com/IgorCorreaFerrari/Projeto-CineMatch/issues) para discutir um bug ou uma nova funcionalidade.
-- Entrar em contato conosco pelo email: [igor.cferrari@email.com](mailto:igor.cferrari@email.com) (//Substitua pelo email real do grupo//)
+- Entrar em contato conosco pelo email: [email](igorcorreaferrari2001@gmail.com).
 
 ## Contribuição
 Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber como contribuir.
