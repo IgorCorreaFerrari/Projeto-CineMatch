@@ -22,6 +22,16 @@ O CineMatch é uma plataforma de recomendação de filmes que utiliza algoritmos
 ## Como Executar
 *(Instruções futuras para rodar a aplicação serão adicionadas aqui.)*
 
+## 🤝 Como Contribuir
+
+Este é um projeto aberto e ficaremos felizes com qualquer contribuição! Se interessou? Confira nosso [guia de contribuição](CONTRIBUTING.md) e veja as [issues abertas](https://github.com/IgorCorreaFerrari/Projeto-CineMatch/issues) para começar.
+
+## 💬 Comunicação
+
+Dúvidas sobre o projeto? Você pode:
+- Abrir uma [Issue](https://github.com/IgorCorreaFerrari/Projeto-CineMatch/issues) para discutir um bug ou uma nova funcionalidade.
+- Entrar em contato conosco pelo email: [igor.cferrari@email.com](mailto:igor.cferrari@email.com) (//Substitua pelo email real do grupo//)
+
 ## Contribuição
 Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber como contribuir.
 
