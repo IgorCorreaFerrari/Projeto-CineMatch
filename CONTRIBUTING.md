@@ -2,6 +2,11 @@
 
 Obrigado por considerar contribuir com o CineMatch! 🎬
 
+## Antes de Começar
+
+- Se você tem uma dúvida ou encontrou um bug, verifique se já não há uma issue aberta sobre o assunto.
+- Para discussões mais longas ou dúvidas gerais, sinta-se à vontade para nos contatar pelo [email](igorcorreaferrari2001@gmail.com) antes de abrir uma issue.
+
 ## Como Contribuir
 1. Faça um fork do projeto.
 2. Crie uma branch com a sua feature (`git checkout -b minha-feature`).
